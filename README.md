@@ -1,6 +1,6 @@
 # Arquitectura de Integración Bancaria - AWS
 
-# Revisar carpeta con los pdf#
+Revisar carpeta con los pdf
 
 ## 📋 Tabla de Contenidos
 
