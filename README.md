@@ -1,5 +1,7 @@
 # Arquitectura de Integración Bancaria - AWS
 
+# Revisar carpeta con los pdf#
+
 ## 📋 Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#resumen-ejecutivo)
