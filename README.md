@@ -44,14 +44,14 @@ Esta propuesta presenta una arquitectura de integración moderna para la transfo
 
 Los diagramas detallados se encuentran en la carpeta `diagrams/`:
 
-- [Diagrama de Contexto C4](diagrams/01-c4-context.md)
-- [Diagrama de Contenedores C4](diagrams/02-c4-containers.md)
-- [Diagrama de Componentes C4](diagrams/03-c4-components.md)
-- [Landscape BIAN](diagrams/04-bian-landscape.md)
-- [Patrones de Integración](diagrams/05-integration-patterns.md)
-- [Arquitectura de Seguridad](diagrams/06-security-architecture.md)
-- [Estrategia HA/DR](diagrams/07-ha-dr-strategy.md)
-- [Roadmap de Migración](diagrams/08-migration-roadmap.md)
+- [Diagrama de Contexto C4](01-c4-context.md)
+- [Diagrama de Contenedores C4](02-c4-containers.md)
+- [Diagrama de Componentes C4](03-c4-components.md)
+- [Landscape BIAN](04-bian-landscape.md)
+- [Patrones de Integración](05-integration-patterns.md)
+- [Arquitectura de Seguridad](06-security-architecture.md)
+- [Estrategia HA/DR](07-ha-dr-strategy.md)
+- [Roadmap de Migración](08-migration-roadmap.md)
 
 ## 🔧 Componentes del Sistema
 
