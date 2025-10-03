@@ -2,6 +2,10 @@
 
 Revisar carpeta con los pdf
 
+# Diagrama de arquitectura y diagrama de flujo:
+
+https://lucid.app/lucidchart/0d35f748-5ed0-408b-8ac8-5d5c69141785/edit?invitationId=inv_094b9e4c-88e7-4f90-9545-cd718976974b
+
 ## 📋 Tabla de Contenidos
 
 1. [Resumen Ejecutivo](#resumen-ejecutivo)
